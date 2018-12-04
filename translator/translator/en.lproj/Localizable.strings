@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  translator
+
+  Created by a on 22/11/18.
+  Copyright © 2018 tms. All rights reserved.
+*/
+
+key1 = "England";
+key2 = "Indonesia";
+key3 = "China";
+key4 = "Taiwan";
+key5 = "Arab";
+key6 = "Catalonia";
+key7 = "Croatia";
+key8 = "Czech";
+key9 = "Denmark";
+key10 = "Holland";
+key11 = "Finland";
+key12 = "France";
+key13 = "Germany";
+key14 = "Greece";
+key15 = "India";
+key16 = "Hungaria";
+key17 = "Italia";
+key18 = "Japan";
+key19 = "South Korea";
+key20 = "Malaysia";
+key21 = "Poland";
+key22 = "Portugal";
+key23 = "Romania";
+key24 = "Russia";
+key25 = "Slovakia";
+key26 = "Spain";
+key27 = "Sweden";
+key28 = "Thailand";
+key29 = "Turkey";
+key30 = "Ukraine";
+key31 = "Vietnam";
+
+
+key32 = "Warning!";
+key33 = "No Text";
+key34 = "Message";
+key35 = "Invalid Response!";
+key36 = "Invalid Product!";
+key37 = "Say something, I'm listening!";
+key38 = "Processing...";
+key39 = "Automatic renewal service description\n\nPayment: The user confirms the payment and accounts for the iTunes account;\n\nCancel renewal: To cancel the renewal, please manually disable the automatic renewal function in iTunes/Apple ID settings management 24 hours before the current subscription period expires. If you cancel within 24 hours before expiration, the subscription fee will be charged.\n\nRenewal fee: Apple's iTunes account will be charged within 24 hours before expiration. After the deduction is successful, the subscription period is postponed for one subscription period.\n\nIf there are portions that are not used after the trial period ends, it will be expire when payment is subscribed to this package.";
+key40 = "Search";

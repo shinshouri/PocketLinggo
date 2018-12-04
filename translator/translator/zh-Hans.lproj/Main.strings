@@ -1,0 +1,87 @@
+/* Class = "UILabel"; text = "Indonesian"; ObjectID = "1oe-d7-s6o"; */
+"1oe-d7-s6o.text" = "Indonesian";
+
+/* Class = "UIButton"; normalTitle = "BUY NOW!"; ObjectID = "5OW-ZF-hNC"; */
+"5OW-ZF-hNC.normalTitle" = "免费试用3天";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "62q-fA-JpN"; */
+"62q-fA-JpN.text" = "收藏";
+
+/* Class = "UITextView"; text = "Automatic renewal service description\n\nPayment: The user confirms the payment and accounts for the iTunes account;\n\nCancel renewal: To cancel the renewal, please manually disable the automatic renewal function in iTunes/Apple ID settings management 24 hours before the current subscription period expires. If you cancel within 24 hours before expiration, the subscription fee will be charged.\n\nRenewal fee: Apple's iTunes account will be charged within 24 hours before expiration. After the deduction is successful, the subscription period is postponed for one subscription period."; ObjectID = "Cb9-m6-7AV"; */
+"Cb9-m6-7AV.text" = "自动续费服务说明\n\n付款：用户确认付款后计入iTunes账户；\n\n取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用；\n\n续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后，订阅周期顺延一个订阅周期";
+
+/* Class = "UILabel"; text = "this bundle contains:"; ObjectID = "DSa-Ob-yxs"; */
+"DSa-Ob-yxs.text" = "VIP特权：";
+
+/* Class = "UILabel"; text = "Purchase"; ObjectID = "FOy-qw-fZY"; */
+"FOy-qw-fZY.text" = "购买";
+
+/* Class = "UILabel"; text = "Conversation"; ObjectID = "JN4-Oa-n6M"; */
+"JN4-Oa-n6M.text" = "对讲";
+
+/* Class = "UITextView"; text = "自动续费服务说明\n\n付款：用户确认付款后计入iTunes账户；\n\n取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用；\n\n续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后，订阅周期顺延一个订阅周期"; ObjectID = "KNW-B1-tbE"; */
+"KNW-B1-tbE.text" = "自动续费服务说明\n\n付款：用户确认付款后计入iTunes账户；\n\n取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用；\n\n续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后，订阅周期顺延一个订阅周期";
+
+/* Class = "UILabel"; text = "Conversation"; ObjectID = "Nco-v1-IqR"; */
+"Nco-v1-IqR.text" = "对讲";
+
+/* Class = "UILabel"; text = "No Ads"; ObjectID = "Nqb-Za-ZZv"; */
+"Nqb-Za-ZZv.text" = "更快更准无广告";
+
+/* Class = "UILabel"; text = "Real-time translate"; ObjectID = "Q3Y-pP-fev"; */
+"Q3Y-pP-fev.text" = "实时拍照翻译";
+
+/* Class = "UIButton"; normalTitle = "Agreement"; ObjectID = "XKZ-kB-OaX"; */
+"XKZ-kB-OaX.normalTitle" = "Agreement";
+
+/* Class = "UILabel"; text = "Live voice translation"; ObjectID = "XPe-lZ-SyX"; */
+"XPe-lZ-SyX.text" = "实时语音翻译";
+
+/* Class = "UILabel"; text = "1 Year Bundle!"; ObjectID = "Xug-0S-jmg"; */
+"Xug-0S-jmg.text" = "1年VIP仅售 ¥298！";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Zkz-ui-CZS"; */
+"Zkz-ui-CZS.text" = "语言";
+
+/* Class = "UILabel"; text = "Live voice translation"; ObjectID = "ara-n4-pJH"; */
+"ara-n4-pJH.text" = "实时语音翻译";
+
+/* Class = "UILabel"; text = "this bundle contains:"; ObjectID = "g1c-Xb-HOp"; */
+"g1c-Xb-HOp.text" = "VIP特权：";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "nOk-3j-Ir6"; */
+"nOk-3j-Ir6.text" = "语言";
+
+/* Class = "UIButton"; normalTitle = "BUY NOW!"; ObjectID = "nZh-KY-qi2"; */
+"nZh-KY-qi2.normalTitle" = "免费试用3天";
+
+/* Class = "UILabel"; text = "Real-time translate"; ObjectID = "r7R-Q0-j8K"; */
+"r7R-Q0-j8K.text" = "实时拍照翻译";
+
+/* Class = "UILabel"; text = "No Ads"; ObjectID = "tta-ub-uUl"; */
+"tta-ub-uUl.text" = "更快更准无广告";
+
+/* Class = "UIButton"; normalTitle = "Agreement"; ObjectID = "vlg-lp-Ok5"; */
+"vlg-lp-Ok5.normalTitle" = "Agreement";
+
+/* Class = "UILabel"; text = "1 Year Bundle!"; ObjectID = "w0W-OA-wz5"; */
+"w0W-OA-wz5.text" = "1年VIP仅售 ¥298！";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "wTB-Iw-ONJ"; */
+"wTB-Iw-ONJ.text" = "收藏";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "Re3-ea-tp1"; */
+"Re3-ea-tp1.text" = "文本";
+
+/* Class = "UILabel"; text = "Camera"; ObjectID = "SIF-fz-xgc"; */
+"SIF-fz-xgc.text" = "相机";
+
+/* Class = "UILabel"; text = "Phrasebook"; ObjectID = "GtA-s8-C9q"; */
+"GtA-s8-C9q.text" = "收藏";
+
+/* Class = "UILabel"; text = "Store"; ObjectID = "zx8-OV-NGc"; */
+"zx8-OV-NGc.text" = "购买";
+
+/* Class = "UILabel"; text = "Real-time photo translation"; ObjectID = "zx8-OV-NGc"; */
+"I23-wl-IBn.text" = "实时拍照翻译";
+
