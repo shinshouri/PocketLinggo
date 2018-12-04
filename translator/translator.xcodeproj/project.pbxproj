@@ -22,6 +22,8 @@
 		0038081A219D7E9300810AF6 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00380819219D7E9300810AF6 /* FavoriteViewController.swift */; };
 		007B651121AFFE0E0013EBB6 /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B651021AFFE0E0013EBB6 /* PreviewViewController.swift */; };
 		008A9F8821B6217B00FCE03B /* AdsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008A9F8721B6217B00FCE03B /* AdsModel.swift */; };
+		008A9F8F21B63FA000FCE03B /* TesseractOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F81369219EC6DE000A5E86 /* TesseractOCR.framework */; };
+		008A9F9021B63FA000FCE03B /* TesseractOCR.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 00F81369219EC6DE000A5E86 /* TesseractOCR.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		00F5920421A274B900BE4BFF /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F5920321A274B900BE4BFF /* AVFoundation.framework */; };
 		00F5920621A2B1B800BE4BFF /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F5920521A2B1B800BE4BFF /* LanguageViewController.swift */; };
 		00F59B2C21A6B040002F85EA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00F59B2E21A6B040002F85EA /* Localizable.strings */; };
@@ -31,7 +33,6 @@
 		00F81364219E6DD6000A5E86 /* JoDess.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F81361219E6DD6000A5E86 /* JoDess.m */; };
 		00F81365219E6DD6000A5E86 /* KeyChainStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F81363219E6DD6000A5E86 /* KeyChainStore.m */; };
 		00F81367219E7016000A5E86 /* StringConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F81366219E7016000A5E86 /* StringConstant.swift */; };
-		00F8136A219EC6DE000A5E86 /* TesseractOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F81369219EC6DE000A5E86 /* TesseractOCR.framework */; };
 		00F8136D219EC706000A5E86 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F8136C219EC706000A5E86 /* CoreImage.framework */; };
 		00F8136F219EC70F000A5E86 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F8136E219EC70F000A5E86 /* libc++.tbd */; };
 		00F81374219ECDD4000A5E86 /* LayoutStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F81373219ECDD4000A5E86 /* LayoutStyle.swift */; };
@@ -58,12 +59,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		0001D23B219BCC6A00A51B6E /* Embed Frameworks */ = {
+		008A9F9121B63FA000FCE03B /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				008A9F9021B63FA000FCE03B /* TesseractOCR.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -126,10 +128,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				008A9F8F21B63FA000FCE03B /* TesseractOCR.framework in Frameworks */,
 				00F5920421A274B900BE4BFF /* AVFoundation.framework in Frameworks */,
 				00F8136F219EC70F000A5E86 /* libc++.tbd in Frameworks */,
 				00F8136D219EC706000A5E86 /* CoreImage.framework in Frameworks */,
-				00F8136A219EC6DE000A5E86 /* TesseractOCR.framework in Frameworks */,
 				AB47550D9C6FBC094CFA8FEB /* Pods_translator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,7 +298,7 @@
 				0001D1DB219BC93200A51B6E /* Sources */,
 				0001D1DC219BC93200A51B6E /* Frameworks */,
 				0001D1DD219BC93200A51B6E /* Resources */,
-				0001D23B219BCC6A00A51B6E /* Embed Frameworks */,
+				008A9F9121B63FA000FCE03B /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -694,7 +696,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8AB3BB74A11669F8BA70F86B /* Pods-translator.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = NO;
@@ -725,7 +726,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9E06256814FF4D855D3701AB /* Pods-translator.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = NO;
